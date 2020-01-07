@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/akruglow/DevOps%20Aprobation/_apis/build/status/akruglow.pipelinaes-java?branchName=master)](https://dev.azure.com/akruglow/DevOps%20Aprobation/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
